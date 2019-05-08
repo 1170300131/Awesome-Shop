@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>ashop</artifactId>
+        <groupId>com.ashop</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>ashop-rpc</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>ashop-rpc-pojo</module>
+        <module>ashop-rpc-mapper</module>
+        <module>ashop-rpc-service</module>
+        <module>ashop-rpc-service-impl</module>
+    </modules>
+
+</project>
