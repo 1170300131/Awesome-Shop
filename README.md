@@ -1,10 +1,18 @@
 # Java高级B2C电商项目
 > 项目全记录
 
-[1.构建数据库,搭建项目环境](https://www.cnblogs.com/tanshaoshenghao/p/10829778.html)
 
+<html>
+    <a href="https://www.cnblogs.com/tanshaoshenghao/p/10829778.html" target="_blank">1.构建数据库,搭建项目环境</a>
+</html>
 
-[2.MyBatis分页插件实现后台商品查询,上下架及删除](https://www.cnblogs.com/tanshaoshenghao/p/10834416.html)
+&nbsp;
+
+<html>
+    <a href="https://www.cnblogs.com/tanshaoshenghao/p/10834416.html" target="_blank">2.MyBatis分页插件实现后台商品查询,上下架及删除</a>
+</html>
+
+&nbsp;
 
 [3.使用VSFTPD_Nginx完成商品新增(未完成...)]()
 
