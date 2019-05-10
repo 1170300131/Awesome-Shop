@@ -1,0 +1,9 @@
+1.在 Eclipse  菜单打开Help -> Install New Software...
+
+2.添加 url http://www.massedynamic.org/eclipse/updates/ 
+
+3.选择 Plug-in for ZooKeeper 3.2.2  这个选项
+
+4. 开始安装
+
+5.安装完成,在Window->Show View->Other里搜索 ZooKeeper 就可以看到了，安装的插件如果没有，就重启下eclipse

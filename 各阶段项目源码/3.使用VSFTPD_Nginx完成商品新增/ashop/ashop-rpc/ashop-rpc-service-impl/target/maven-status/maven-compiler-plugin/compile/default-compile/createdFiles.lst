@@ -1,0 +1,3 @@
+com\ashop\rpc\service\impl\ItemDescServiceImpl.class
+com\ashop\rpc\service\impl\ItemServiceImpl.class
+com\ashop\rpc\service\impl\ItemCatServiceImpl.class
