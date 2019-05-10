@@ -5,7 +5,7 @@
 
 [2.MyBatis分页插件实现后台商品查询,上下架及删除](https://www.cnblogs.com/tanshaoshenghao/p/10834416.html)
 
-[3.使用VSFTPD_Nginx完成商品新增(未完成...)]()
+[3.使用VSFTPD_Nginx完成商品新增](https://www.cnblogs.com/tanshaoshenghao/p/10846633.html)
 
 [4.基于json格式完成商品规格参数管理(未完成...)]()
 
