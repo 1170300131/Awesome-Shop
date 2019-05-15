@@ -1,0 +1,5 @@
+com\ashop\rpc\service\ItemParamService.class
+com\ashop\rpc\service\ParamItemService.class
+com\ashop\rpc\service\ItemDescService.class
+com\ashop\rpc\service\ItemService.class
+com\ashop\rpc\service\ItemCatService.class

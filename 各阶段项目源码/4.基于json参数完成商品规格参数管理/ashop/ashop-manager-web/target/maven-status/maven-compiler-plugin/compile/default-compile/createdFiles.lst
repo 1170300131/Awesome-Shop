@@ -1,0 +1,17 @@
+com\ashop\manager\controller\ItemCatController.class
+com\ashop\manager\service\ManagerItemDescService.class
+com\ashop\manager\service\ManagerItemParamService.class
+com\ashop\manager\service\ManagerItemCatService.class
+com\ashop\manager\controller\ItemController.class
+com\ashop\manager\controller\ItemDescController.class
+com\ashop\manager\service\impl\ManagerItemDescServiceImpl.class
+com\ashop\manager\service\ManagerItemService.class
+com\ashop\manager\service\impl\ManagerItemParamServiceImpl.class
+com\ashop\manager\service\impl\ManagerParamItemServiceImpl.class
+com\ashop\manager\service\impl\ManagerItemCatServiceImpl.class
+com\ashop\manager\controller\ItemImageController.class
+com\ashop\manager\controller\ParamItemParamController.class
+com\ashop\manager\service\ManagerParamItemService.class
+com\ashop\manager\controller\PageController.class
+com\ashop\manager\controller\ItemParamController.class
+com\ashop\manager\service\impl\ManagerItemServiceImpl.class

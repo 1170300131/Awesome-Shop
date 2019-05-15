@@ -1,0 +1,6 @@
+com\ashop\beans\AshopResult.class
+com\ashop\beans\PageResult.class
+com\ashop\beans\FtpUtils.class
+com\ashop\beans\TreeNode.class
+com\ashop\beans\PictureResult.class
+com\ashop\beans\IDUtils.class
