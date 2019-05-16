@@ -9,7 +9,7 @@
 
 [4.基于json格式完成商品规格参数管理](https://www.cnblogs.com/tanshaoshenghao/p/10871804.html)
 
-[5.内容管理cms系统(未完成...)]()
+[5.内容管理cms系统](https://www.cnblogs.com/tanshaoshenghao/p/10877752.html)
 
 [6.门户首页商品,广告首页展示,使用Redis数据缓存(未完成...)]()
 
