@@ -7,7 +7,7 @@
 
 [3.使用VSFTPD_Nginx完成商品新增](https://www.cnblogs.com/tanshaoshenghao/p/10846633.html)
 
-[4.基于json格式完成商品规格参数管理(未完成...)]()
+[4.基于json格式完成商品规格参数管理](https://www.cnblogs.com/tanshaoshenghao/p/10871804.html)
 
 [5.内容管理cms系统(未完成...)]()
 
