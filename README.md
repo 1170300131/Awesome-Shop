@@ -11,7 +11,7 @@
 
 [5.内容管理cms系统](https://www.cnblogs.com/tanshaoshenghao/p/10877752.html)
 
-[6.门户首页商品,广告首页展示,使用Redis数据缓存(未完成...)]()
+[6.门户首页商品,广告首页展示,使用Redis数据缓存](https://www.cnblogs.com/tanshaoshenghao/p/10884625.html)
 
 [7.基于solr实现商品数据检索(未完成...)]()
 
