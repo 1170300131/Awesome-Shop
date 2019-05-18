@@ -15,7 +15,7 @@
 
 [7.基于solr实现商品数据检索(未完成...)]()
 
-[8.实现SSO单点登陆(未完成...)]()
+[8.实现SSO单点登陆](https://www.cnblogs.com/tanshaoshenghao/p/10887028.html)
 
 [9.商城购物车系统(未完成...)]()
 
